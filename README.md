@@ -6,12 +6,12 @@ CodeQuest is a web-based platform that teaches Python programming through intera
 
 ## 📚 Features
 
-- 🧠 Python coding challenges with live execution via Judge0 API  
-- 🔐 Role-based login and user authentication with Firebase  
-- ⚡ Real-time XP, progress, and badge tracking  
-- 🏆 Gamification through levels, badges, and final boss challenge  
-- 📊 Leaderboard to encourage healthy competition  
-- 🎯 Adaptive feedback based on user performance  
+-  Python coding challenges with live execution via Judge0 API  
+-  Role-based login and user authentication with Firebase  
+-  Real-time XP, progress, and badge tracking  
+-  Gamification through levels, badges, and a final boss challenge  
+-  Leaderboard to encourage healthy competition  
+-  Adaptive feedback based on user performance  
 
 ---
 
